@@ -9,5 +9,4 @@ public class ITransitionTask4Application {
     public static void main(String[] args) {
         SpringApplication.run(ITransitionTask4Application.class, args);
     }
-
 }

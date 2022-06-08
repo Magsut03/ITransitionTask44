@@ -1,0 +1,12 @@
+
+spring:
+  datasource:
+    username: postgres
+    password: 1
+    url: jdbc:postgresql://localhost:5432/ITransitionTask4
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+
+
